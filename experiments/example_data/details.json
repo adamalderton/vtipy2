@@ -1,0 +1,36 @@
+{
+    "experiment_name": "example_data",
+    "datetime": "2020-08-28T12:02:28.094761",
+    "complete": true,
+    "stage": "HFS350",
+    "analyser": "Solartron 1260",
+    "ramps": [
+        {
+            "num": 1,
+            "interval": 25,
+            "start_temp": 50.0,
+            "end_temp": 200.0,
+            "rate": 20.0,
+            "min_holdtime": 180,
+            "voltage": 100.0,
+            "fmin": 0.1,
+            "fmax": 1000000.0,
+            "ppd": 6,
+            "num_sweeps_at_T": 1,
+            "sweep_delay": 300,
+            "up": true,
+            "num_intervals": 6,
+            "temps": [
+                50.0,
+                75.0,
+                100.0,
+                125.0,
+                150.0,
+                175.0,
+                200.0
+            ],
+            "numpoints": 42
+        }
+    ],
+    "time_elapsed": "0:44:06"
+}

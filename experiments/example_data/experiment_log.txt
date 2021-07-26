@@ -1,0 +1,12 @@
+Experiment Log File for: **EXAMPLE EXPERIMENT LOG** (not from example_data experiment)
+11/09/2020 11:07:20 | Ramp : - | Temp Point : - | T : 44.84 °C | Experiment is Starting.
+11/09/2020 11:07:24 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 40.33 °C | Heating/Cooling to 30.0 °C
+11/09/2020 11:07:35 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 30.14 °C | Holding at T = 30.00 °C, Holdtime Remaining = 10.00 (s)
+11/09/2020 11:07:45 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 35.56 °C | Beginning sweep 1 / 2.
+11/09/2020 11:07:46 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 36.77 °C | Performing sweep 1 / 2.
+11/09/2020 11:08:23 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 45.98 °C | Waiting to perform next impedance sweep, t = 10s
+11/09/2020 11:08:33 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 32.75 °C | Beginning sweep 2 / 2.
+11/09/2020 11:08:34 | Ramp : 1 / 2 | Temp Point : 30.0 °C  1 / 3 | T : 31.89 °C | Performing sweep 2 / 2.
+11/09/2020 11:09:15 | Ramp : 1 / 2 | Temp Point : 45.0 °C  2 / 3 | T : 58.64 °C | Heating/Cooling to 45.0 °C
+11/09/2020 11:10:31 | Ramp : 1 / 2 | Temp Point : 45.0 °C  2 / 3 | T : 42.23 °C | Experiment Complete
+11/09/2020 11:10:31 | Ramp : 1 / 2 | Temp Point : 45.0 °C  2 / 3 | T : 42.23 °C | Program Ended
